@@ -11,7 +11,7 @@ Mostly interested in Web App testing.
 You can find the completed tasks in my repositories. 
 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+- 📫 Contacts: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alena-kozhukhova-37264460/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:niceunwise@gmail.com)
 
 ---
 
