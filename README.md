@@ -8,7 +8,8 @@ Here is to share some of the testing artifacts made during my study.
 I'm a Junior QA and currently searching for my first job.
 Completed “Functional software testing” course [![by Artsiom Rusau] (https://artsiomrusau.com/)].
 Mostly interested in Web App testing.
-You can find the completed tasks in my repositories. 
+You can find the completed tasks in my repositories.
+Some tools I worked with are below. 
 
 
 - 📫 Contacts: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alena-kozhukhova-37264460/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:niceunwise@gmail.com)
@@ -71,7 +72,7 @@ You can find the completed tasks in my repositories.
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Coding:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -82,5 +83,3 @@ You can find the completed tasks in my repositories.
 
 ---
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
