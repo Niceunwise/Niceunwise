@@ -49,7 +49,7 @@ You can find the completed tasks in my repositories.
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Mobile App testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
