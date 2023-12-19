@@ -6,9 +6,13 @@ Here is to share some of the testing artifacts made during my study.
 ### 👨‍💻 Briefly about me:
 
 I'm a Junior QA and currently searching for my first job.
+
 Completed “Functional software testing” course [by Artsiom Rusau](https://artsiomrusau.com/).
+
 Mostly interested in Web App testing.
+
 You can find the completed tasks in my repositories.
+
 Some tools I worked with are below. 
 
 
