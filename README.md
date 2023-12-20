@@ -87,3 +87,16 @@ Some tools I worked with are below.
 
 ---
 
+### Testing Artifacts
+
+1. [Test Design](https://github.com/Niceunwise/Test_design)
+
+2. [Web App Testing](https://github.com/Niceunwise/Web_App_testing)
+
+3. [Mobile App Testing](https://github.com/Niceunwise/Mobile_App_Testing)
+
+4. [API testing](https://github.com/Niceunwise/APItesting)
+
+5. [Databases](https://github.com/Niceunwise/Databases)
+
+6. [Bash](https://github.com/Niceunwise/Bash_training)
