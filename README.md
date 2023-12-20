@@ -1,4 +1,4 @@
-# Hi, my name is Alena Kozhukhova!
+# Hi, my name is Alena!
 
 ---
 Here is to share some of the testing artifacts made during my study.
