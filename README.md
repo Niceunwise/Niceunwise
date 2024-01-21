@@ -100,3 +100,9 @@ Some tools I worked with are below.
 5. [Databases](https://github.com/Niceunwise/Databases)
 
 6. [Bash](https://github.com/Niceunwise/Bash_training)
+
+---
+
+### My CV
+
+You can check my CVs [here](https://drive.google.com/drive/folders/1PxjroVR1HX6ykN2HOf8y3kYJQs8YTf44)
